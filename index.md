@@ -6,5 +6,6 @@ Device Documents
 - [borui.md](./borui.md)
 - [rd6xxx.md](./rd6xxx.md)
 - [sk120x.md](./sk120x.md)
+- [FY3200s.md](./FY3200S.md)
 
 If you add a new device document, please update this index or open a pull request to add it.
